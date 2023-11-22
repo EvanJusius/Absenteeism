@@ -17,3 +17,7 @@
 ![Screenshot 2023-11-22 213724](https://github.com/EvanJusius/Absenteeism/assets/148787421/9a430ee5-2958-4ec5-8759-620a98a35bec)
 
 ![Screenshot 2023-11-22 213820](https://github.com/EvanJusius/Absenteeism/assets/148787421/a0c7609d-4503-4e28-b8be-1258d4bff0c1)
+
+# DASHBOARD
+![image](https://github.com/EvanJusius/Absenteeism/assets/148787421/fdd2634d-c5b2-4c41-8f62-358a6ccdb6e4)
+
